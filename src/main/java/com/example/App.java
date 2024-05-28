@@ -20,8 +20,10 @@ public class App
         // Por cada tipo primitivo existe un tipo objeto correspondiente. 
 
        Integer b = 20;
+       
+       // Para almacenar un valor en un float, hay que especificar
 
-       float c = 2.3f;
+       float c = (float) 2.3;
            
         
     }
